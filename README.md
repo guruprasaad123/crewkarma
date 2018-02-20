@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+## Description
+I have used Vuejs + Bootstrap + [Vuestrap](https://wffranco.github.io/vue-strap) in my Project.
 ## Build Setup
 
 ``` bash
